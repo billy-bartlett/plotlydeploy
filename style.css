@@ -1,0 +1,17 @@
+body{
+background-color: #e6e6e6;
+color: #23395d;
+}
+
+.container{
+    background-color: #ffffff;
+    align-items: center;
+}
+
+.jumbotron {
+background-image: url(https://cdn.pixabay.com/photo/2016/12/17/10/27/virus-1913183_960_720.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+color:#ffffff;
+text-shadow: 2px 2px #000000;
+}
